@@ -1,1 +1,2 @@
 This is line 1 in File1. More changes done.
+This is second line added in File 1.
